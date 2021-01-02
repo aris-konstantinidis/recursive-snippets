@@ -1,5 +1,3 @@
-import java.io.FileNotFoundException;
-
 public class Task {
     
     // remove a character from a string
